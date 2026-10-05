@@ -1,0 +1,17 @@
+#!/bin/sh
+# Future sites: copy scripts/check-required-files and set
+# "prebuild": "sh scripts/check-required-files"
+# so `npm run build` fails before Vite when a required source file is missing.
+set -eu
+cd "$(dirname "$0")/.."
+missing=0
+for rel in \
+  assets-src/credits.json \
+  src/images.json
+do
+  if [ ! -f "$rel" ]; then
+    echo "Missing required file: $rel" >&2
+    missing=1
+  fi
+done
+exit "$missing"
