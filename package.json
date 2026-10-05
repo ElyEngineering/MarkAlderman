@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "check:required": "sh scripts/check-required-files",
+    "prebuild": "sh scripts/check-required-files",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
