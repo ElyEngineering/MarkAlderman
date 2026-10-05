@@ -1,0 +1,8 @@
+Quiet Counsel — Mark L. Alderman tribute
+Preview: https://mil-baptist-motorola-send.trycloudflare.com
+Local:   http://127.0.0.1:4173
+Server PID: 630045 (node serve -l 4173)
+Tunnel PID: 630054 (cloudflared)
+Teardown: ./TEARDOWN.sh
+
+[v2 2026-10-05 07:47 CT] Rebuilt in place. Assets: index-D25kuRx6.js / index-CUp3flnJ.css. Same URL https://mil-baptist-motorola-send.trycloudflare.com ; server PID 630045, tunnel PID 630054 untouched.
