@@ -1,0 +1,79 @@
+{
+ "constitution": {
+  "title": "File:Constitution of the United States, page 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "artist": "Constitutional Convention"
+ },
+ "preamble": {
+  "title": "File:Constitution of the United States, page 1 (cropped, Preamble).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States,_page_1_(cropped,_Preamble).jpg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "artist": "Constitutional Convention"
+ },
+ "capitol": {
+  "title": "File:US Capitol dome Jan 2006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
+  "license": "CC BY 2.5",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+  "artist": "Diliff"
+ },
+ "harrisburg": {
+  "title": "File:Pennsylvania Capitol rotunda PA2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pennsylvania_Capitol_rotunda_PA2.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Acroteion"
+ },
+ "western-wall": {
+  "title": "File:Western Wall Plaza - Jerusalem (1291829327).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Western_Wall_Plaza_-_Jerusalem_(1291829327).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "artist": "David King from Haifa, Israel"
+ },
+ "pericles": {
+  "title": "File:Pericles Pio-Clementino Inv269 n2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pericles_Pio-Clementino_Inv269_n2.jpg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "artist": "Copy of Kresilas"
+ },
+ "philly-night": {
+  "title": "File:Center City Philadelphia 2018 02.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Center_City_Philadelphia_2018_02.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Peetlesnumber1"
+ },
+ "independence-hall": {
+  "title": "File:Independence Hall Exterior Front.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Independence_Hall_Exterior_Front.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Andrew Rehbein"
+ },
+ "assembly-room": {
+  "title": "File:Assembly Room of Independence Hall (1917f9b3-204a-4b60-bba0-1d0a382b8e58).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Assembly_Room_of_Independence_Hall_(1917f9b3-204a-4b60-bba0-1d0a382b8e58).jpg",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "artist": "NPS photo"
+ },
+ "city-hall": {
+  "title": "File:City Hall Tower 0001.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:City_Hall_Tower_0001.jpg",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Foolish Productions Photography"
+ },
+ "skyline-dusk": {
+  "title": "File:Philadelphia from South Street Bridge July 2016 panorama 3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Philadelphia_from_South_Street_Bridge_July_2016_panorama_3.jpg",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "King of Hearts"
+ }
+}
